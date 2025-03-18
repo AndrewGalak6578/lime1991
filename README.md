@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # EL-CART
 
@@ -13,3 +14,7 @@
 - [Yajra Laravel DataTables 10.4.0](https://github.com/yajra/laravel-datatables).
 - [Spatie Laravel Sluggable 3.4.2](https://github.com/spatie/laravel-sluggable).
 
+=======
+# backend
+
+>>>>>>> f7a573c (Initial commit)
